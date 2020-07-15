@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is my text
+>Everything you read on the internet is true -- Abraham Lincoln
 Use the left arrow to go back!
